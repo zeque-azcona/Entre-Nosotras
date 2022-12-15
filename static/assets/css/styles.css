@@ -782,7 +782,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background-color: #5f4dee;
+	background-color: #fd00fd;
 }
 
 .header .header-content {
@@ -811,9 +811,9 @@ input[type='checkbox'] {
 	margin-right: 0.5rem;
 	margin-bottom: 1.125rem;
 	margin-left: 0.5rem;
-	border-color: #f3f7fd;
-	background-color: #f3f7fd;
-	color: #5f4dee;
+	border-color: #fd00fd;
+	background-color: #3e0146;
+	color: #fd00fd;
 }
 
 .header .btn-solid-lg:hover {
@@ -828,7 +828,7 @@ input[type='checkbox'] {
 
 .header .btn-outline-lg:hover {
 	background-color: #f3f7fd;
-	color: #5f4dee;
+	color: #fd00fd;
 }
 
 .header-frame {

@@ -22,6 +22,7 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path("admin/", admin.site.urls),
+    path("noticias/", noticia),
     path('', NoticiaListview.as_view()),
 ]+static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
